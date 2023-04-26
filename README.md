@@ -6,7 +6,7 @@ Mais um projeto para uso pessoal e aprendizado.
 
 ## 🚀 Finalizado.
 
-## 📋 Técnologias
+## 📋 Tecnologias
 HTML + CSS + JavaScript
 
 ## ✒️ Autor
